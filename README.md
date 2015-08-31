@@ -4,4 +4,5 @@ An implementation of a URL shortener in python using [Flask](http://flask.pocoo.
 
 ##TODO
 - [ ] switch from sqlite to postgresql
-
+- [x] add travis
+- [ ] setup procfile
