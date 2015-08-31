@@ -1,0 +1,30 @@
+body {
+    color: #5e5e5e;
+}
+
+.navbar-default .navbar-toggle {
+    border: none;
+}
+
+.navbar-default .navbar-collapse {
+    border: none;
+}
+
+.center {
+    text-align: center;
+    margin-top: 10%
+}
+
+.margin-top {
+    margin-top: 2rem;
+}
+
+.textarea-special {
+    border: none;
+    margin-top: 2rem;
+    font-size: 36px;
+    outline: none;
+    resize: none;
+    width: 100%;
+    text-align: center;
+}
